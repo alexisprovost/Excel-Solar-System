@@ -1,4 +1,4 @@
-# ProjetExcel
+# Excel-Solar-System
 Mouvement d'un corps autour de 3 planetes
 
 ## Screenshots
